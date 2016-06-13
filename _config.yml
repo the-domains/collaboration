@@ -1,0 +1,14 @@
+layout_spectrum: 0.46899453760124743
+typography_spectrum: 0.1665055099874735
+color:
+  brandStrength: 0.19446640694513917
+  lightness: 0.12369508459232748
+  saturation: 0.14353576209396124
+  rhythmicContrast: 0.7748228507116437
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: collaboration
